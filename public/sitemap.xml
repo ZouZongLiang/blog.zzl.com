@@ -2,17 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://xxx.xxx/posts/first/</loc>
+    <loc>https://liang.geovbox.com/categories/</loc>
+    <lastmod>2022-11-16T09:03:33+08:00</lastmod>
+  </url><url>
+    <loc>https://liang.geovbox.com/posts/</loc>
+    <lastmod>2022-11-16T09:03:33+08:00</lastmod>
+  </url><url>
+    <loc>https://liang.geovbox.com/tags/python/</loc>
+    <lastmod>2022-11-16T09:03:33+08:00</lastmod>
+  </url><url>
+    <loc>https://liang.geovbox.com/categories/python/</loc>
+    <lastmod>2022-11-16T09:03:33+08:00</lastmod>
+  </url><url>
+    <loc>https://liang.geovbox.com/posts/3-pythonthreading/</loc>
+    <lastmod>2022-11-16T09:03:33+08:00</lastmod>
+  </url><url>
+    <loc>https://liang.geovbox.com/tags/</loc>
+    <lastmod>2022-11-16T09:03:33+08:00</lastmod>
+  </url><url>
+    <loc>https://liang.geovbox.com/tags/threading/</loc>
+    <lastmod>2022-11-16T09:03:33+08:00</lastmod>
+  </url><url>
+    <loc>https://liang.geovbox.com/</loc>
+    <lastmod>2022-11-16T09:03:33+08:00</lastmod>
+  </url><url>
+    <loc>https://liang.geovbox.com/tags/hugo/</loc>
+    <lastmod>2022-11-16T09:03:02+08:00</lastmod>
+  </url><url>
+    <loc>https://liang.geovbox.com/categories/hugo/</loc>
+    <lastmod>2022-11-16T09:03:02+08:00</lastmod>
+  </url><url>
+    <loc>https://liang.geovbox.com/posts/2-hugostaticwebbuilding/</loc>
+    <lastmod>2022-11-16T09:03:02+08:00</lastmod>
+  </url><url>
+    <loc>https://liang.geovbox.com/about/</loc>
+    <lastmod>2022-11-09T10:38:44+08:00</lastmod>
+  </url><url>
+    <loc>https://liang.geovbox.com/posts/first/</loc>
     <lastmod>2022-11-09T10:34:41+08:00</lastmod>
-  </url><url>
-    <loc>http://xxx.xxx/posts/</loc>
-    <lastmod>2022-11-09T10:34:41+08:00</lastmod>
-  </url><url>
-    <loc>http://xxx.xxx/</loc>
-    <lastmod>2022-11-09T10:34:41+08:00</lastmod>
-  </url><url>
-    <loc>http://xxx.xxx/categories/</loc>
-  </url><url>
-    <loc>http://xxx.xxx/tags/</loc>
   </url>
 </urlset>

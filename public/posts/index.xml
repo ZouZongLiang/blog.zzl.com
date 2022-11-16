@@ -2,18 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on zzl</title>
-    <link>http://xxx.xxx/posts/</link>
+    <link>https://liang.geovbox.com/posts/</link>
     <description>Recent content in Posts on zzl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Nov 2022 10:34:41 +0800</lastBuildDate><atom:link href="http://xxx.xxx/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Nov 2022 09:03:33 +0800</lastBuildDate><atom:link href="https://liang.geovbox.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>python 关闭子线程</title>
+      <link>https://liang.geovbox.com/posts/3-pythonthreading/</link>
+      <pubDate>Wed, 16 Nov 2022 09:03:33 +0800</pubDate>
+      
+      <guid>https://liang.geovbox.com/posts/3-pythonthreading/</guid>
+      <description>python threading</description>
+    </item>
+    
+    <item>
+      <title>从零搭建一个hugo个人网页</title>
+      <link>https://liang.geovbox.com/posts/2-hugostaticwebbuilding/</link>
+      <pubDate>Wed, 16 Nov 2022 09:03:02 +0800</pubDate>
+      
+      <guid>https://liang.geovbox.com/posts/2-hugostaticwebbuilding/</guid>
+      <description>HUGO</description>
+    </item>
+    
     <item>
       <title>First</title>
-      <link>http://xxx.xxx/posts/first/</link>
+      <link>https://liang.geovbox.com/posts/first/</link>
       <pubDate>Wed, 09 Nov 2022 10:34:41 +0800</pubDate>
       
-      <guid>http://xxx.xxx/posts/first/</guid>
-      <description> Hello,HUGO! </description>
+      <guid>https://liang.geovbox.com/posts/first/</guid>
+      <description> Hello,HUGO!  1 2 3 4 5 6 7  #include&amp;lt;iostream&amp;gt;using namespace std; int main() { cout&amp;lt;&amp;lt;&amp;#34;Hello World!&amp;#34;; return 0; }   </description>
     </item>
     
   </channel>

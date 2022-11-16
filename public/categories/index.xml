@@ -2,9 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on zzl</title>
-    <link>http://xxx.xxx/categories/</link>
+    <link>https://liang.geovbox.com/categories/</link>
     <description>Recent content in Categories on zzl</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://xxx.xxx/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Nov 2022 09:03:33 +0800</lastBuildDate><atom:link href="https://liang.geovbox.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>python</title>
+      <link>https://liang.geovbox.com/categories/python/</link>
+      <pubDate>Wed, 16 Nov 2022 09:03:33 +0800</pubDate>
+      
+      <guid>https://liang.geovbox.com/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://liang.geovbox.com/categories/hugo/</link>
+      <pubDate>Wed, 16 Nov 2022 09:03:02 +0800</pubDate>
+      
+      <guid>https://liang.geovbox.com/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
