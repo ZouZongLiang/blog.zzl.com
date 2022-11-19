@@ -6,4 +6,7 @@ tags : ['hugo']
 Categories : ['hugo']
 ---
 
-<h1> HUGO </h1>
+![HUGO](images/hugo-logo-wide.svg)
+
+# 一、准备工作
+
